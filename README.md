@@ -402,9 +402,9 @@ jupyter
 **Rishabh**  
 Data Analyst | Python · SQL · Power BI
 
-- GitHub: `https://github.com/YOUR_USERNAME`
-- LinkedIn: `ADD_YOUR_LINKEDIN_URL`
-- Email: `ADD_YOUR_EMAIL`
+- GitHub: `https://github.com/rishabh-1617`
+- LinkedIn: `https://www.linkedin.com/in/rishabhprajapati1606/`
+- Email: `rishabhyt.1617@gmail.com`
 
 ---
 
