@@ -300,12 +300,15 @@ Examples of recommendation categories:
 - Establish recurring KPI monitoring for management reporting.
 
 ---
-
 ## 📸 Dashboard Preview
+
+### Company Overview Dashboard
 
 <p align="center">
   <img src="screenshots/company_overview_dashboard.png" alt="Company Overview Dashboard" width="100%">
 </p>
+
+### HR Analytics Dashboard
 
 <p align="center">
   <img src="screenshots/hr_analytics_dashboard.png" alt="HR Analytics Dashboard" width="100%">
